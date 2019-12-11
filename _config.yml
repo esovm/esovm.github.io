@@ -50,7 +50,8 @@ show_excerpts: true
 
 skin: sunrise
 
-#header_pages:
+header_pages:
+  - hs-esovm
 #  - docs/INSTALL.md
 #  - docs/TODO.md
 #  - docs/NEWS.md
