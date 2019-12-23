@@ -7,6 +7,7 @@ tagline:          Esoteric Virtual Machine Interpreter Assembler MacroProcessor 
 description:      "Documentation of Esoteric Virtual Machine - Interpreter, Assembler, MacroProcessor and TransCompiler"
 url:              https://esovm.github.io/
 author:           kamil-adam
+edit_url:         https://github.com/esovm/esovm.github.io
 
 plugins:
   - jekyll-avatar
