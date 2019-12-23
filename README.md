@@ -3,4 +3,4 @@ title: README
 permalink: /README/
 ---
 
-[Hs-EsoVM](/hs-esovm/) - implementation in Haskell. Alfa version.
+[Hs-EsoVM](https://esovm.github.io/hs-esovm/) - implementation in Haskell. Alfa version.
