@@ -50,6 +50,12 @@ remote_theme: esovm/minima
 #remote_theme: esovm/sleek
 #remote_theme: twocolumn/WriteOnly
 
+# jekyll-titles-from-headings
+titles_from_headings:
+  enabled:     false
+  strip_title: false
+  collections: false
+
 # minima
 show_excerpts: true
 # skin: sunrise
