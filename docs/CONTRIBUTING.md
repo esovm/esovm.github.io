@@ -26,12 +26,9 @@ List of supported esoteric languages:
 
 ## EsoDSL
 * **DSL** means *domain-specific languages*. Some **DSL** are *fourth-generation programming languages*
-* **EsoDSL** is *string typed **DSL** for writing libraries for **EsoC**
+* **EsoDSL** is *stringly typed **DSL** like TCL for writing libraries for **EsoC**
 
 **EsoDSL** has many iconicities, but every one iconicity is homoiconicity:
 * **S-expressions** like Racket/Scheme for computers
 * **M-expressions** like TCL for humans
 * **W-expressions** like YAML for reports
-
-
-
