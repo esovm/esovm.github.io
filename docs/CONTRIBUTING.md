@@ -18,15 +18,15 @@ List of supported esoteric languages:
 
 ## EsoAsm
 * **Assembly languages** are *second-generation programming languages*
-* **EsoAsm** is *loosely static typed* common programming language and abstraction over all *esoteric languages*
+* **EsoAsm** is *loosely static typed* (*untyped*) common programming language and abstraction over all *esoteric languages*
 
 ## EsoC
 * **C language** is one of *high-level* *third-generation programming languages*
-* **EsoC** is *weakly static typed* *high-level* **C language**, which is compiled to **EsoAsm**
+* **EsoC** is *weakly static typed* (*untyped*) *high-level* **C language**, which is compiled to **EsoAsm**
 
 ## EsoDSL
 * **DSL** means *domain-specific languages*. Some **DSL** are *fourth-generation programming languages*
-* **EsoDSL** is *stringly typed **DSL** like TCL for writing libraries for **EsoC**
+* **EsoDSL** is *stringly typed* (*manifestly-typed*) **DSL** like TCL for writing libraries for **EsoC**
 
 **EsoDSL** has many iconicities, but every one iconicity is homoiconicity:
 * **S-expressions** like Racket/Scheme for computers
