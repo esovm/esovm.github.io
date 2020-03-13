@@ -30,5 +30,5 @@ List of supported esoteric languages:
 
 **EsoDSL** has many iconicities, but every one iconicity is homoiconicity:
 * **S-expressions** like Racket/Scheme for computers
-* **M-expressions** like TCL for humans
+* **M-expressions** like TCL or Red/Rebol for humans
 * **W-expressions** like YAML for reports
