@@ -8,12 +8,12 @@ Implementation is in [HS-EsoVM](https://esovm.github.io/hs-esovm/)
 
 ## EsoLangs
 List of supported esoteric languages:
-   * [BrainFuck]
-   * [SubLeq] and [SLAsm](http://mazonka.com/subleq/sqasm.cpp)
+   * [BrainFuck](https://esolangs.org/wiki/Brainfuck)
+   * [SubLeq](http://mazonka.com/subleq/) and [SLAsm](http://mazonka.com/subleq/sqasm.cpp)
    * [W Assembler]
    * [ETA](http://www.miketaylor.org.uk/tech/eta/doc/manual.html) and [EAS](http://www.miketaylor.org.uk/tech/eta/doc/easman.html)
-   * [Piet]
-   * [BeFunge]
+   * [Piet](https://www.dangermouse.net/esoteric/piet.html)
+   * [BeFunge](https://web.archive.org/web/20010417044912/http://cantor.res.cmu.edu/bozeman/befunge/beffaq.html)
    * [WhiteSpace] and [WSA](http://web.archive.org/web/20150102035404/http://www.burghard.info/Code/Whitespace/index.html)
 
 ## EsoAsm
