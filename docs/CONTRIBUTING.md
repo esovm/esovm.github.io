@@ -27,3 +27,10 @@ List of supported esoteric languages:
 ## EsoDSL
 * **DSL** means *domain-specific languages*. Some **DSL**s are *fourth-generation programming languages*
 * **EsoDSL** is *stringly typed* (*manifestly-typed*) **DSL** for writing libraries for **EsoC**
+
+### EsoLib
+   Universal macro library written in **EsoDSL**
+
+### BFLib
+   BF library with [Brainfuck algorithms](https://esolangs.org/wiki/Brainfuck_algorithms) written in **EsoDSL**
+
