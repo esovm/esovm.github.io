@@ -29,9 +29,9 @@ List of supported esoteric languages:
 * **EsoDSL** is **DSL** for writing libraries for **EsoC**
 
 **EsoDSL** has many iconicities, but every one iconicity is homoiconicity:
-* **S-expressions** like Racket/Scheme
-* **M-expressions** like TCL
-* **W-expressions** like YAML
+* **S-expressions** like Racket/Scheme for computers
+* **M-expressions** like TCL for humans
+* **W-expressions** like YAML for reports
 
 
 
