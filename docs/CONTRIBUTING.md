@@ -18,7 +18,7 @@ List of supported esoteric languages:
 
 ## EsoAsm
 * **Assembly languages** are *second-generation programming languages*
-* **EsoAsm** is *weakly static typed* common programming language and abstraction over all *esoteric languages*
+* **EsoAsm** is *loosely static typed* common programming language and abstraction over all *esoteric languages*
 
 ## EsoC
 * **C language** is one of *high-level* *third-generation programming languages*
